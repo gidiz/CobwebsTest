@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\bin\Debug\CobwebsTest.exe.config
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\bin\Debug\CobwebsTest.exe
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\bin\Debug\CobwebsTest.pdb
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\obj\Debug\CobwebsTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\obj\Debug\CobwebsTest.exe
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\obj\Debug\CobwebsTest.pdb
+C:\Users\User\source\repos\CobwebsTest\CobwebsTest\obj\Debug\CobwebsTest.csprojAssemblyReference.cache
